@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 init delovelop
+=======
+int delovelop
+>>>>>>> 1aa00729ef600d0a982d9edd5a68ab76d13b4d15
